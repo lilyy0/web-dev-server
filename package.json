@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "full-stack-developer-server-node",
+  "version": "1.0.0",
+  "description": "Node.js HTTP Web server for the Tuiter application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "REST",
+    "Server",
+    "HTTP"
+  ],
+  "author": "Lily Hughes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
